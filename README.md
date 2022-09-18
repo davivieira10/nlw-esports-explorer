@@ -1,5 +1,5 @@
-## <h1>Semana NLW com um projeto game hub, um site agregador de links, no estilo Linktree, feito especialmente para gamers, onde você pode adicionar os jogos e canais de streamers preferidos e adicionar as suas redes sociais para contato.
-></h1>
+## <h1>Semana NLW com um projeto game hub.</h1>
+   <h2>Um site agregador de links, no estilo Linktree, feito especialmente para gamers, onde você pode adicionar os jogos e canais de streamers preferidos e adicionar as suas redes sociais para contato.</h2>
 
 <img align="center" alt="Semana NLW" src="https://i.postimg.cc/ZqNNLpvW/projeto-nlw-esports-explorer.png">
 
