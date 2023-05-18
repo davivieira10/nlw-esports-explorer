@@ -36,6 +36,7 @@ header div {
     display: flex;
     padding: 4px;
     transition: transform .3s;
+    transition: 0.5s ease-in-out;
 }
 
 /*animation */
